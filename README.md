@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emir Görkem Yüksel</h1>
 <h3 align="center">Artificial İntelligence Student İn ADÜ</h3>
 
-- 🔭 I’m currently working on http://looklinkai.com/
+- 🔭 I’m currently working on https://looklink.streamlit.app/
 
 - 🌱 I’m currently learning **Advanced Deep Learning, CRISP-DM Methodology and Generative AI**
 
